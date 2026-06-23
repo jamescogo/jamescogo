@@ -2,6 +2,9 @@
 🔭 I’m currently working on rebuilding my VPS, playing with containers, and eating raspberry pi. 
 Don't expect too much on here, since I'll be using this as a tool to mentor and coach my interns.
 
+Keeping these for reference
+[Basic Markdown](https://www.markdownguide.org/basic-syntax/)
+[Extended Markdown](https://www.markdownguide.org/extended-syntax/)
 <!--
 **jamescogo/jamescogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
